@@ -1,5 +1,5 @@
 # Overview
-alingen/rails-dev - You can create a development environment for rails and mysql.
+You can create a development environment for rails and mysql.
 
 # version
 Rails version: 6.1.7
@@ -22,4 +22,4 @@ then change to the created directry```cd rails-dev ```, and start docker contain
 
 ```docker-compose up -d  ```
 
-View the website at: http://localhost:3000
+View the website at: http://localhost:3002
