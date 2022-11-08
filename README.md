@@ -22,4 +22,14 @@ then change to the created directry```cd rails-dev ```, and start docker contain
 
 ```docker-compose up -d  ```
 
+run the container,
+
+```docker-compose exec web bash```
+
+and create a database.
+
+```rails db:create```
+
+```rails db:migrate```
+
 View the website at: http://localhost:3002
